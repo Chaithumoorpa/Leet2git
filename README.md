@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaithumoorpa/Leet2git/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Chaithumoorpa/Leet2git/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Chaithumoorpa/Leet2git/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaithumoorpa/Leet2git/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
