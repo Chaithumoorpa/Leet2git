@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chaithumoorpa/Leet2git/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaithumoorpa/Leet2git/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Chaithumoorpa/Leet2git/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Chaithumoorpa/Leet2git/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Chaithumoorpa/Leet2git/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaithumoorpa/Leet2git/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaithumoorpa/Leet2git/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
