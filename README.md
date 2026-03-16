@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Chaithumoorpa/Leet2git/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Chaithumoorpa/Leet2git/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
+| [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaithumoorpa/Leet2git/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1929-concatenation-of-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaithumoorpa/Leet2git/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Chaithumoorpa/Leet2git/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaithumoorpa/Leet2git/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Chaithumoorpa/Leet2git/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
