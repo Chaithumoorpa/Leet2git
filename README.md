@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Chaithumoorpa/Leet2git/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chaithumoorpa/Leet2git/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaithumoorpa/Leet2git/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1929-concatenation-of-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/1314-matrix-block-sum) |
 ## Queue
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Chaithumoorpa/Leet2git/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Chaithumoorpa/Leet2git/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0620-not-boring-movies](https://github.com/Chaithumoorpa/Leet2git/tree/master/0620-not-boring-movies) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
