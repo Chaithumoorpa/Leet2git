@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Chaithumoorpa/Leet2git/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Chaithumoorpa/Leet2git/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Chaithumoorpa/Leet2git/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chaithumoorpa/Leet2git/tree/master/0992-subarrays-with-k-different-integers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Chaithumoorpa/Leet2git/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/1314-matrix-block-sum) |
