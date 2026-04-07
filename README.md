@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chaithumoorpa/Leet2git/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chaithumoorpa/Leet2git/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaithumoorpa/Leet2git/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/Chaithumoorpa/Leet2git/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chaithumoorpa/Leet2git/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Chaithumoorpa/Leet2git/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Chaithumoorpa/Leet2git/tree/master/0680-valid-palindrome-ii) |
+| [1763-longest-nice-substring](https://github.com/Chaithumoorpa/Leet2git/tree/master/1763-longest-nice-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Chaithumoorpa/Leet2git/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Chaithumoorpa/Leet2git/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chaithumoorpa/Leet2git/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chaithumoorpa/Leet2git/tree/master/1004-max-consecutive-ones-iii) |
+| [1763-longest-nice-substring](https://github.com/Chaithumoorpa/Leet2git/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Chaithumoorpa/Leet2git/tree/master/0645-set-mismatch) |
+| [1763-longest-nice-substring](https://github.com/Chaithumoorpa/Leet2git/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -186,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chaithumoorpa/Leet2git/tree/master/0053-maximum-subarray) |
+| [1763-longest-nice-substring](https://github.com/Chaithumoorpa/Leet2git/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
