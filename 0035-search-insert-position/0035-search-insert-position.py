@@ -1,0 +1,18 @@
+class Solution:
+    def searchInsert(self, nums, target):
+        left = 0
+        right = len(nums) - 1
+        
+        while left <= right:
+            # Using floor division to find the middle index
+            mid = left + (right - left) // 2
+            
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+        
+        # If not found, 'left' is the insertion index
+        return left
