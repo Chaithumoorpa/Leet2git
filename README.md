@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Chaithumoorpa/Leet2git/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/0523-continuous-subarray-sum) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Chaithumoorpa/Leet2git/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
