@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chaithumoorpa/Leet2git/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Chaithumoorpa/Leet2git/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Chaithumoorpa/Leet2git/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaithumoorpa/Leet2git/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1763-longest-nice-substring](https://github.com/Chaithumoorpa/Leet2git/tree/master/1763-longest-nice-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Chaithumoorpa/Leet2git/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chaithumoorpa/Leet2git/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaithumoorpa/Leet2git/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
