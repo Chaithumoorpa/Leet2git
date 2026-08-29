@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chaithumoorpa/Leet2git/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Chaithumoorpa/Leet2git/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chaithumoorpa/Leet2git/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Chaithumoorpa/Leet2git/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Chaithumoorpa/Leet2git/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Chaithumoorpa/Leet2git/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chaithumoorpa/Leet2git/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Chaithumoorpa/Leet2git/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chaithumoorpa/Leet2git/tree/master/0054-spiral-matrix) |
 | [1314-matrix-block-sum](https://github.com/Chaithumoorpa/Leet2git/tree/master/1314-matrix-block-sum) |
 ## Math
 |  |
